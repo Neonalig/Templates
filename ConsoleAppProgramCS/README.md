@@ -1,3 +1,6 @@
+# Program.cs
+Simple 'Program.cs' file with fixed syntax and C# 10.0 implementations.
+
 # Installation
 ## Automatic
 - Run the '```Build.cmd```' file, **ensuring to change paths to match your specific system directories.**
