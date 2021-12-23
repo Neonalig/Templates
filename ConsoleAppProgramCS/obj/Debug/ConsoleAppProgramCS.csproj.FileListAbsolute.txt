@@ -1,8 +1,0 @@
-E:\Projects\Visual Studio\_Templates\Program.cs\ConsoleAppProgramCS\bin\Debug\ItemTemplates\CSharp\1033\ConsoleAppProgramCS.zip
-E:\Projects\Visual Studio\_Templates\Program.cs\ConsoleAppProgramCS\obj\Debug\ConsoleAppProgramCS.csproj.AssemblyReference.cache
-E:\Projects\Visual Studio\_Templates\Program.cs\ConsoleAppProgramCS\obj\Debug\_EmptyResource.resources
-E:\Projects\Visual Studio\_Templates\Program.cs\ConsoleAppProgramCS\obj\Debug\ConsoleAppProgramCS.csproj.GenerateResource.cache
-E:\Projects\Visual Studio\_Templates\Program.cs\ConsoleAppProgramCS\obj\Debug\ConsoleAppProgramCS.csproj.CoreCompileInputs.cache
-E:\Projects\Visual Studio\_Templates\Program.cs\ConsoleAppProgramCS\obj\Debug\CSharp\1033\ConsoleAppProgramCS.zip
-E:\Projects\Visual Studio\_Templates\Program.cs\ConsoleAppProgramCS\obj\Debug\ConsoleAppProgramCS.dll
-E:\Projects\Visual Studio\_Templates\Program.cs\ConsoleAppProgramCS\obj\Debug\ConsoleAppProgramCS.pdb

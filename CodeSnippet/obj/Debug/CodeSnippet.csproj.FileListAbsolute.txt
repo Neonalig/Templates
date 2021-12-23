@@ -1,6 +1,0 @@
-E:\Projects\Visual Studio\_Templates\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.csproj.AssemblyReference.cache
-E:\Projects\Visual Studio\_Templates\CodeSnippet\CodeSnippet\obj\Debug\_EmptyResource.resources
-E:\Projects\Visual Studio\_Templates\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.csproj.GenerateResource.cache
-E:\Projects\Visual Studio\_Templates\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.csproj.CoreCompileInputs.cache
-E:\Projects\Visual Studio\_Templates\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.dll
-E:\Projects\Visual Studio\_Templates\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.pdb
