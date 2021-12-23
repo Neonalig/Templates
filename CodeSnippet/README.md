@@ -1,3 +1,6 @@
+# Code Snippet
+Creates a .snippet file
+
 # Installation
 ## Automatic
 - Run the '```Build.cmd```' file, **ensuring to change paths to match your specific system directories.**
